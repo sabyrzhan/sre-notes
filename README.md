@@ -18,3 +18,4 @@ the product. The domain knowledge consists from checklist that includes launch r
 - educate developers with best practices, guide to integrate or reuse existing services if
   exists, provide appropriate documentation and internal training resources
 
+
