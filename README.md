@@ -35,7 +35,7 @@ Some practices to keep metrics dashboard clean and understandable:
 - The Four Golden Signals (Google SRE handbook) - the same as RED but with saturation, where saturation defines - 
   "how full the system is".
 
-There is my `docker-compose` repository [link url="https://github.com/sabyrzhan/docker"]here[/link], where you can 
+There is my `docker-compose` repository [here](https://github.com/sabyrzhan/docker), where you can 
 find docker-compose-grafana.yml file. I used Prometheus, Grafana, Graphite, cAdvisor, Prometheus reporters and 
 collectd to build the dashboard based on host metrics. Almost all dashboards I imported from community dashboards 
 just to see how they are used and configured.
