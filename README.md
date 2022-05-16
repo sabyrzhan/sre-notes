@@ -1,3 +1,6 @@
+> ARCHIVED. See [learning-progress](sabyrzhan/learning-progress) for SRE and other notes.
+
+
 # 📝 🤓 👨‍💻 Java developer's SRE notes
 ## SLI, SLO, SLA
 - SLI (Service Layer Indicator) - defined quantitative measure of some 
