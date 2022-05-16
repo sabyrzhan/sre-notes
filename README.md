@@ -1,4 +1,4 @@
-> ARCHIVED. See [learning-progress](sabyrzhan/learning-progress) for SRE and other notes.
+> ARCHIVED. See [github.com/sabyrzhan/learning-progress](sabyrzhan/learning-progress) for SRE and other notes.
 
 
 # 📝 🤓 👨‍💻 Java developer's SRE notes
